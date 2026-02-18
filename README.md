@@ -42,7 +42,7 @@ This command:
 Use a shared model cache path before disabling internet:
 
 ```bash
-cd /Users/abhisheksiroha/neutrino-dev
+cd neutrino-dev
 HF_TOKEN=<your_hf_token> \
 INSTALL_PROJECT_DEPS=1 \
 TABPFN_MODEL_CACHE_DIR=/opt/tabpfn-model-cache \
